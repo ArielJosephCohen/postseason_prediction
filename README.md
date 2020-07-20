@@ -1,1 +1,7 @@
-# postseason_prediction
+# README
+
+***
+
+# Statistics and the Postseason in the NBA
+
+***
