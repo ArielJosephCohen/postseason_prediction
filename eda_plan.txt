@@ -1,8 +1,29 @@
 EDA plan:
 
-Some random questions:
+Here are my questions I hope to explore:
 
-1. 3 point % over time
-2. Assists over time
-3. Histograms and distributions
-4. 
+Player Stats
+
+1. Histograms and distributions
+2. Is there a negative correlation between rebounding and three point shooting
+3. Is there a positive correlation between assists and three point shooting
+4. Is there a correlation between blocks and steals
+5. Is there a correlation between assists and turnovers
+6. How many active players are there at every position
+7. Has free throw shooting improved over time
+8. What is the correlation between draft selection and point per game
+9. What percent of active players are undrafted or from outside the U.S.
+10. Distribution of five major stat categories across position (violin plot)
+
+Team Stats
+
+1. What is the average age and draft selection for playoff team players
+2. 3 point % over time
+3. EFG% and 2 point % over time due to less mid-range two pointers
+4. Assists over time
+5. Histograms and distributions
+6. Is there a negative correlation between rebounding and three point shooting
+7. Is there a positive correlation between assists and three point shooting
+8. Is there a correlation between blocks and steals
+9. Is there a correlation between assists and turnovers
+10. Average finish in five major stat categories in playoff teams versus regular teams
