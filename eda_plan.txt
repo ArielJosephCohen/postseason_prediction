@@ -1,0 +1,8 @@
+EDA plan:
+
+Some random questions:
+
+1. 3 point % over time
+2. Assists over time
+3. Histograms and distributions
+4. 

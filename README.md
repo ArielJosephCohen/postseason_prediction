@@ -38,11 +38,11 @@ From an individual perspective, there is not as much of an application. For team
 
 # Summary Files
 
-### nba_data.csv
-Source of data that I web-scraped from basketball-reference.com.
-
 ### README.md
 This document you are reading now to describe the project.
+
+### nba_data.csv
+Source of data that I web-scraped from basketball-reference.com.
 
 ### player_stats.ipynb
 
@@ -51,3 +51,7 @@ This notebook contains my work analyzing how to tell which individuals may end u
 ### player_stats.ipynb
 
 This notebook contains my work analyzing how to tell which teams may end up in the playoffs.
+
+### eda_plan.txt
+
+This is just a text file to keep some notes of the questions I want to address in exploratory data analysis.
