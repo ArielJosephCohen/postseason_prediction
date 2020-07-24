@@ -10,7 +10,7 @@ Player Stats
 4. Is there a correlation between blocks and steals
 5. Is there a correlation between assists and turnovers
 6. How many active players are there at every position
-7. Has free throw shooting improved over time
+7. Free throw shooting by position
 8. What is the correlation between draft selection and point per game
 9. What percent of active players are undrafted or from outside the U.S.
 10. Distribution of five major stat categories across position (violin plot)
@@ -20,7 +20,7 @@ Team Stats
 1. What is the average age and draft selection for playoff team players
 2. 3 point % over time
 3. EFG% and 2 point % over time due to less mid-range two pointers
-4. Assists over time
+4. Assists and free throw shooting over time
 5. Histograms and distributions
 6. Is there a negative correlation between rebounding and three point shooting
 7. Is there a positive correlation between assists and three point shooting
