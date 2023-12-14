@@ -4,7 +4,7 @@ Here are my questions I hope to explore:
 
 Player Stats
 
-1. Histograms and distributions
+1. Histograms and distribution
 2. Is there a negative correlation between rebounding and three point shooting
 3. Is there a positive correlation between assists and three point shooting
 4. Is there a correlation between blocks and steals

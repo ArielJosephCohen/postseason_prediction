@@ -10,7 +10,7 @@
 
 # Goals of this Project
 
-Welcome to my project! The goal of this project is to use real NBA data and player statistics to see a model can be constructed that would actually predict whether a team or player might earn a trip into the NBA playoffs. I am really interested in seeing if there are any trends inn the modern basketball landscape that are common among successful teams that do not have historical significance. I hope to learn that and a lot more through my investigation
+Welcome to my project! The goal of this project is to use real NBA data and player statistics to see a model can be constructed that would actually predict whether a team or player might earn a trip into the NBA playoff. I am really interested in seeing if there are any trends inn the modern basketball landscape that are common among successful teams that do not have historical significance. I hope to learn that and a lot more through my investigation
 
 ***
 
